@@ -57,10 +57,10 @@ Currently supported indicators:
 ## Screenshots
 
 
-![Dashboard View](./screenshots/Screenshot%202025-01-14%20141619.png)
+![Dashboard View](Screenshot%202025-01-14%20141619.png)
 *Main dashboard interface with stock analysis tools*
 
-![Technical Analysis View](./screenshots/Screenshot%202025-01-14%20141715.png)
+![Technical Analysis View](Screenshot%202025-01-14%20141715.png)
 *Detailed technical analysis and indicators view*
 
 
