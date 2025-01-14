@@ -1,0 +1,6 @@
+streamlit>=1.24.0
+plotly>=5.15.0
+pandas>=2.0.3
+yfinance>=0.2.25
+ta>=0.10.2
+pytz>=2023.3
